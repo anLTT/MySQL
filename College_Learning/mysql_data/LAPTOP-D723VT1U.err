@@ -152,3 +152,15 @@
 2025-10-14T13:57:47.120916Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
 2025-10-14T13:57:47.149238Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
 2025-10-14T13:57:47.149468Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.26'  socket: ''  port: 3306  MySQL Community Server - GPL.
+2025-10-20T09:51:54.353423Z 0 [System] [MY-013105] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Normal shutdown.
+2025-10-20T09:51:55.715056Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: Shutdown complete (mysqld 8.0.26)  MySQL Community Server - GPL.
+2025-10-20T09:52:22.135733Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2025-10-20T09:52:22.139452Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe (mysqld 8.0.26) starting as process 9692
+2025-10-20T09:52:22.185083Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2025-10-20T09:52:22.567845Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2025-10-20T09:52:22.861645Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1 is enabled for channel mysql_main
+2025-10-20T09:52:22.862765Z 0 [Warning] [MY-013746] [Server] A deprecated TLS version TLSv1.1 is enabled for channel mysql_main
+2025-10-20T09:52:22.869964Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2025-10-20T09:52:22.870925Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2025-10-20T09:52:22.908276Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2025-10-20T09:52:22.908500Z 0 [System] [MY-010931] [Server] C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe: ready for connections. Version: '8.0.26'  socket: ''  port: 3306  MySQL Community Server - GPL.
